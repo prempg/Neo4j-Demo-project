@@ -4,6 +4,7 @@
 A graph data platform built on **Neo4j 5.x** and connected via the official Python `neo4j` Bolt driver. This project models interconnected movie production networks, node-edge topologies, and traverses multi-hop entity graphs using Cypher query language.
 
 ---
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/aeebae51-c964-4645-b9ca-0851f11e521d" />
 
 ## Architecture & Graph Topology
 
